@@ -1,0 +1,11 @@
+.navbar-item{
+    color: #cba0a0;
+}
+.white{
+    border-bottom: 2px solid #cba0a0;
+}
+nav ul a {
+    /*over-riding the padding from materialize.css*/
+    padding:  0px 5px !important;
+    height:  60px;
+}
